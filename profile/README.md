@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="q.png" alt="Vidhra" style="width: 500px; height: 284px; object-fit: contain;"/>
+  <img src="w.png" alt="Vidhra" style="width: 500px; height: 284px; object-fit: contain;"/>
 </div>
 
 # Vidhra
