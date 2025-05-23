@@ -129,13 +129,6 @@ class VidhraDevelopment:
             "Real-time Infrastructure Insights"
         ]
         
-        self.upcoming_releases = {
-            "Q1 2024": "Saturn AWS Integration",
-            "Q2 2024": "Enterprise Dashboard",
-            "Q3 2024": "Azure Support",
-            "Q4 2024": "AI Agent Marketplace"
-        }
-        
         self.vision = "Making cloud infrastructure as intuitive as natural conversation"
 ```
 
