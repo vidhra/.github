@@ -1,4 +1,6 @@
-![Vidhra](https://via.placeholder.com/800x200/1f2937/ffffff?text=Vidhra+-+AI-Powered+Cloud+Solutions)
+<div align="center">
+  <img src="q.png" alt="Vidhra" style="width: 500px; height: 284px; object-fit: contain;"/>
+</div>
 
 # Vidhra
 Democratizing Cloud Infrastructure Through AI
