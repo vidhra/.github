@@ -3,7 +3,7 @@
 </div>
 
 # Vidhra
-Democratizing Cloud Infrastructure Through AI
+Infrastructure as a Language
 
 [Vidhra](https://vidhra.com) is an innovative technology company specializing in AI-powered cloud infrastructure solutions. We believe that managing cloud resources should be as simple as having a conversation, and we're building the tools to make that vision a reality.
 
