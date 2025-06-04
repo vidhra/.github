@@ -211,5 +211,5 @@ We're not just building tools - we're reimagining how humans interact with techn
 ---
 
 <div align="center">
-<sub>© 2024 Vidhra. Towards better ai agents.</sub>
+<sub>© 2024 Vidhra. Towards better AI agents.</sub>
 </div>
