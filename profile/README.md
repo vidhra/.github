@@ -8,7 +8,7 @@ Infrastructure as a Language
 [Vidhra](https://vidhra.com) is an innovative technology company specializing in AI-powered cloud infrastructure solutions. We believe that managing cloud resources should be as simple as having a conversation, and we're building the tools to make that vision a reality.
 
 ## Our Mission
-To democratize cloud operations by making complex infrastructure management accessible to everyone - from seasoned DevOps engineers to developers who want to focus on building, not configuring.
+Make complex infrastructure management accessible to everyone - from seasoned DevOps engineers to developers who want to focus on building, not configuring.
 
 ## 🚀 Featured Projects
 
@@ -211,5 +211,5 @@ We're not just building tools - we're reimagining how humans interact with techn
 ---
 
 <div align="center">
-<sub>© 2024 Vidhra. Democratizing cloud infrastructure through AI.</sub>
+<sub>© 2024 Vidhra. Towards better ai agents.</sub>
 </div>
