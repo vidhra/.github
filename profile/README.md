@@ -105,18 +105,6 @@ At Vidhra, we're driven by core principles that shape everything we build:
 
 </div>
 
----
-
-## 🏆 Impact & Recognition
-
-- 🌟 **Open Source Innovation**: Building tools that thousands of developers rely on
-- ☁️ **Cloud Infrastructure Leadership**: Pioneering conversational interfaces for DevOps
-- 🤖 **AI Research**: Contributing to the advancement of AI-powered automation
-- 📚 **Knowledge Sharing**: Comprehensive documentation and educational content
-- 🌍 **Global Community**: Supporting developers and organizations worldwide
-
----
-
 ## 🚀 Product Roadmap
 
 ```python
@@ -211,5 +199,5 @@ We're not just building tools - we're reimagining how humans interact with techn
 ---
 
 <div align="center">
-<sub>© 2024 Vidhra. Towards better AI agents.</sub>
+<sub>© 2025 Vidhra. Towards better AI agents.</sub>
 </div>
