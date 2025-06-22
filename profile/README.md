@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="w.png" alt="Vidhra" />
-</div>
-
 # Vidhra
 Infrastructure as a Language
 
