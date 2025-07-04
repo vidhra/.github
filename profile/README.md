@@ -1,7 +1,7 @@
 # Vidhra
 Infrastructure as a Language
 
-[Vidhra](https://vidhra.com) is an innovative technology company specializing in AI-powered cloud infrastructure solutions. We believe that managing cloud resources should be as simple as having a conversation, and we're building the tools to make that vision a reality.
+[Vidhra](https://vidhra.com) is an innovative technology company specializing in AI-powered cloud infrastructure solutions, We're building the tools to make that vision a reality.
 
 ## Our Mission
 Make complex infrastructure management accessible to everyone - from seasoned DevOps engineers to developers who want to focus on building, not configuring.
@@ -14,9 +14,6 @@ Make complex infrastructure management accessible to everyone - from seasoned De
 Saturn transforms the way teams interact with cloud platforms by providing a natural language interface for complex operations.
 
 ```bash
-# Instead of memorizing complex commands...
-saturn run "Create a serverless VPC connector in us-central1 with auto-scaling"
-
 # Or coordinating multi-step workflows...
 saturn run "Set up a complete CI/CD pipeline with monitoring and alerts"
 
@@ -27,7 +24,6 @@ saturn run "Deploy a production-ready web application with load balancing"
 **🔧 Core Capabilities:**
 - 🤖 **Natural Language Processing** for cloud operations
 - ☁️ **Multi-Cloud Support** (GCP production-ready, AWS & Azure coming soon)
-- 🧠 **RAG-Enhanced Intelligence** with comprehensive cloud documentation
 - 📊 **Complete State Management** and audit trails
 - ⚡ **Production-Grade** reliability and error handling
 - 🔧 **Extensible Architecture** for custom cloud providers
